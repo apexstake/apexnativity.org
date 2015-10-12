@@ -1,0 +1,36 @@
+.features .alt li {
+    width: 100%;
+    text-align: initial;
+    padding: 0.5em;
+    display: flex;
+}
+
+.features .alt li span {
+    font-weight: 600;
+    padding: 0 1em 0 0;
+}
+
+.features li:nth-child(11) {
+    background-color: rgba(0, 0, 0, 0.35);
+}
+
+.features li:nth-child(12) {
+    background-color: rgba(0, 0, 0, 0.385);
+}
+
+.features li:nth-child(13) {
+    background-color: rgba(0, 0, 0, 0.42);
+}
+
+.features li:nth-child(14) {
+    background-color: rgba(0, 0, 0, 0.455);
+}
+
+.features li:nth-child(15) {
+    background-color: rgba(0, 0, 0, 0.49);
+}
+
+#cta hr {
+    max-width: 45em;
+    margin: 2em auto;
+}
